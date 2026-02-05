@@ -2,10 +2,7 @@
 
 <div align="center">
   
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Implementado-brightgreen)
 ![Análise](https://img.shields.io/badge/Tipo-Análise_Desempenho_Comercial-purple)
-![Projeto](https://img.shields.io/badge/Repositório-GitHub-black?logo=github)
 
 [![Acesse o Repositório](https://img.shields.io/badge/📁_ACESSE_O_REPOSITÓRIO-Click_Here-blueviolet)](https://github.com/Rafael-Henrique07/challenge_loja)
 
@@ -168,7 +165,22 @@ Contribuições, sugestões e melhorias são bem-vindas:
 
 ---
 
+## 💻 Tecnologias Usadas
+<div>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000">
+</div>
+
 ## 📞 Informações de Contato 
 **Desenvolvedor:** Rafael Henrique de Oliveira da Silva<br>
-**Repositório:** github.com/Rafael-Henrique07<br>
+**Linkedin:** https://www.linkedin.com/in/rafael-henrique-de-oliveira-da-silva/<br>
 **Projeto:** challenge_loja
+<table>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/206916825?v=4" width="100px;" alt="Foto de Rafael Henrique no GitHub">
+      <br>
+      <a href="https://github.com/Rafael-Henrique07">Rafael Henrique</a>
+    </td>
+  </tr>
+</table>
